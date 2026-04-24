@@ -71,14 +71,11 @@ entre estados e indicadores de risco em todo o território nacional.
 | 15  | média | Como analista, quero identificar correlação entre frota de veículos pesados e sinistros fatais para entender fatores de risco no trânsito| 4  | 3  |
 
 # Desenvolvimento de dashboard no Power BI, apresentando:
-Principais cargas movimentadas;
-modais utilizados;
-origens e destinos;
-evolução ao longo do tempo;
-empresas envolvidas;
-acidentes viários com veículos pesados e sua proximidade com pontos de descanso.
-Análises e visualizações em mapas e gráficos de tendência, com possibilidade de segmentar por estado e nível nacional.
-Documentação técnica com scripts em Python e boas práticas.
+Evolução dos acidentes por ano;
+Sazonalidade de acidentes da semana;
+Principais causas de acidentes;
+Estimativa de acidentes de trabalho;
+Taxa de letalidade por municipios com mais de 100mil habitantes;
 
 Entrega final:
 Dashboard funcional, limpo e intuitivo.
