@@ -29,11 +29,14 @@ segurança viária dos municípios com mais de 250 mil habitantes.
 | Função       |Nome             | Linkedin     |
 |--------------|-----------------|--------------|
 |Team Member |  Ana R. Araújo   |[![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ana-ara%C3%BAjo-tom%C3%A9-754936215?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+|Team Member   | Aline Cristina |[![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/alinecristinaazevedo?utm_source=share_via&utm_content=profile&utm_medium=member_android)
+|Team Member   | João Paulo |[![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-paulo-da-silva-8017a5303?utm_source=share_via&utm_content=profile&utm_medium=member_android)
 |Team Member | Manoela Nobre  |[![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/manoela-batista-nobre-800206271/)
 |Team Member | Vitória Beatriz |[![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/vit%C3%B3ria-beatriz-mariano-6281a8292?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
-|Product Owner  |  |[![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)]
-|Scrum Master   | Ana R. Araújo   |[![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ana-ara%C3%BAjo-tom%C3%A9-754936215?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
-|Team Member   |  |[![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)]
+|Team Member | Willian |[![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/vit%C3%B3ria-beatriz-mariano-6281a8292?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
+|Product Owner  | Manoele Moraes |![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)
+|Scrum Master   | Ribamar   |[![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ribamar-barros?utm_source=share_via&utm_content=profile&utm_medium=member_android)
+
 
 
 # Objetivo do Projeto
