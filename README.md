@@ -56,11 +56,16 @@ entre estados e indicadores de risco em todo o território nacional.
 | 3    | alta     | Como usuário do dashboard, quero visualizar dados nacionais de frota, população, sinistros e mortes para ter visão geral da segurança viária no Brasil| 2  | 1  | 
 | 4    | média   | Como usuário, quero visualizar dados por estado para comparar indicadores regionais de segurança viária| 3  | 1  | 
 | 5    | baixa  | Como equipe do projeto, quero armazenar código e artefatos no GitHub para garantir versionamento e colaboração| 2  | 1
-| 6    | alta  | Como usuário, quero filtrar dados por tipo de veículo para analisar especificamente veículos pesados| 2  | 1  |
-| 7    | alta  | Como Tomador de decisões, quero a relação das cinco principais origens e destinos da movimentação de cargas perigosas, para tomada de decisões futuras e ações de prevenção e otimização de fiscalizações| 2   | 2   |
-| 8    | alta   | Como Tomador de decisões, quero a relação dos pontos de descanso para motoristas de caminhões de carga perigosa em um raio de 100km das regiões em que mais ocorrem acidentes envolvendo cargas perigosas| 3   | 3  |
-| 9   | alta  | Como Tomador de decisões logísticas, gostaria de ter acesso a um relatório técnico detalhando boas práticas dos 3 estados que menos causaram acidentes de transporte de cargas perigosas e quais os desafios enfrentados| 6  | 3  |
-| 10  | média | Como Tomador de decisões, quero ter acesso a evolução da frota de veículos dos 5 municípios que mais transportaram cargas perigosas e poluentes durante o período| 4  | 3  |
+| 6    | alta  | Como analista, quero calcular a taxa de mortalidade por 100 mil habitantes para avaliar o impacto dos sinistros no trânsito| 2  | 2  |
+| 7    | média |Como analista, quero calcular sinistros por 10 mil veículos para comparar níveis de risco entre estados| 2   | 2   |
+| 8    | alta   |Como usuário, quero visualizar gráficos de tendência por ano para analisar evolução da segurança viária entre 2015 e 2025| 3   | 2  |
+| 9   | alta  | Como usuário, quero interface intuitiva no Power BI com navegação simples para acessar informações rapidamente| 6  | 2  |
+| 10  | média | Como usuário, quero comparar indicadores de um estado com a média nacional para avaliar desempenho relativo| 4  | 2  |
+| 11  | média | Como usuário, quero visualizar mapas interativos por estado para facilitar análise geográfica dos dados| 4  | 2  |
+| 12  | média | Como usuário, quero filtrar dados por região do Brasil para comparar padrões regionais de sinistros| 4  | 3  |
+| 13  | média | Como usuário, quero filtrar dados por ano para analisar mudanças ao longo do tempo| 4  | 3  |
+| 14  | média | Como usuário, quero filtrar dados por gravidade do sinistro para avaliar severidade dos acidentes| 4  | 3  |
+| 15  | média | Como analista, quero identificar correlação entre frota de veículos pesados e sinistros fatais para entender fatores de risco no trânsito| 4  | 3  |
 
 # Desenvolvimento de dashboard no Power BI, apresentando:
 Principais cargas movimentadas;
@@ -83,8 +88,8 @@ Material que possa apoiar estudos acadêmicos e formulação de políticas públ
  Sprint | Previsão | Status | Histórico |
 |------|--------|------|--------|
 | 01 | 24/04/2026| em andamento | [MVP](MVP/sp1.md)    | 
-| 02 | 15/05/2026| em andamento | [MVP](MVP/sp2.md)   | 
-| 03 | 05/06/2026 | em andamento |  [MVP](MVP/sp3.md) | 
+| 02 | 15/05/2026| em andamento | | 
+| 03 | 05/06/2026 | em andamento |  | 
 | Feira de Soluções | 18/06/2026 | pendente |  | 
 
 
