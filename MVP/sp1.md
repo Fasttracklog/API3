@@ -53,3 +53,10 @@ Rank | Prioridade | User Story                                                  
 - Ajustes de dashboard com foco em responder as questões em análise 
 - Focar em desenvolver filtros que facilitem a visualização no dash e a analise wue será feita posteriormente
 
+
+---
+
+## 📂 Anexos / Evidências
+- Prints de tela  
+- Fluxos ou protótipos  
+- Vídeo (MVP)  
