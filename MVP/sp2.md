@@ -1,10 +1,9 @@
-# 📌 MVP - [Nome do Projeto]
+# 📌 MVP - [Fasttrack]
 
-## 🎯 Objetivo do MVP
-> Descrever de forma clara qual é o propósito do MVP:  
-- Qual problema resolve?  
-- Qual hipótese será validada?  
-- Qual valor será entregue ao usuário final?  
+## 🎯 Objetivo do MVP 
+- Evidencia os problemas referentes a acidentes com veículos pesados, nos possibilitando uma analise com objetivo de melhorias nos processos logisticos relacionados a esses veículos.
+- Temos como proposta identificar melhorias possiveis para a diminuição da sinistralidade no transito de veículos pesados,   
+- Qual valor será entregue ao usuário final? Uma ferramente de analise que permita a visualição de taxas nacionais e estaduais para âmbito de comparação das taxas de mortalidade, severidade dos sinistros, frota, população entre outros. 
 
 ---
 
