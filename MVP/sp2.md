@@ -39,7 +39,7 @@
 | 02     | Tendência por ano para analise de evolução da segurança viária | Concluido |
 | 02     | Power BI mais intuitivo e visual | Concluído|
 | 02     | Mapa interativo por estados | Concluído|
-| 02     | Reduçãomdas categorias climáticas| Concluído|
+| 02     | Redução das categorias climáticas| Concluído|
 ---
 
 ## 📊 Critérios de Aceitação
