@@ -57,6 +57,5 @@ Rank | Prioridade | User Story                                                  
 ---
 
 ## 📂 Anexos / Evidências
-- Prints de tela  
-- Fluxos ou protótipos  
-- Vídeo (MVP)  
+- <img width="1164" height="593" alt="Grafico1sprint" src="https://github.com/user-attachments/assets/c0802260-37de-45b7-8c7f-d573a9781b52" />
+
