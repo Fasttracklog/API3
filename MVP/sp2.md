@@ -35,31 +35,30 @@
 ## 📅 Sprint(s) Relacionadas
 | Sprint | Entregas Principais                          | Status   |
 |--------|----------------------------------------------|----------|
-| 01     | Calculo de mortalidade por 100mil habitahtes | Concluído|
+| 02     | Calculo de mortalidade por 100mil habitahtes | Concluído|
 | 02     | Tendência por ano para analise de evolução da segurança viária | Concluido |
-| 03     | Power BI mais intuitivo e visual | Concluído|
-| 04     | Mapa interativo por estados | Concluído|
-| 05     | Reduçãomdas categorias climáticas| Concluído|
+| 02     | Power BI mais intuitivo e visual | Concluído|
+| 02     | Mapa interativo por estados | Concluído|
+| 02     | Reduçãomdas categorias climáticas| Concluído|
 ---
 
 ## 📊 Critérios de Aceitação
 - O MVP deve permitir que o usuário realize de forma prática, uma analise sobre as métricas de segurança viária brasileira, observado evoluções e declinios nos dados de 2020 a 2025
 - O sistema deve registrar melhora ou piora significativa após mudanças de penalidades, de rotas nos locais de maior incidência de acidentes,etc.  
-- Métricas coletadas:  
+- Métricas coletadas: o dashboard apresenta número considerável de informações para pesquisas e material de estudos, pós proxima apresentação ao cliente e feedbacks, será possivel aprofundar a pesquisa para resposta de quetionamentos gerados a equipe, durante mixagem de dados, tornando a ferramenta ainda mais útil.
 
 ---
 
 ## 📈 Métricas de Validação
-- Número de usuários que testaram o MVP  
-- Feedback qualitativo (positivo/negativo)  
-- Indicadores de negócio (exemplo: % de adesão, redução de custo, etc.)  
+- 8 membros validaram o modelo
+- Feedback qualitativo: positivo
+- Acreditamos estar no caminho certo para uma ferramenta de análise satisfatória
 
 ---
 
 ## 🚀 Próximos Passos
-- Melhorias planejadas após feedback  
-- Ajustes de usabilidade  
-- Expansão de funcionalidades para próximo incremento  
+- Melhorias serão planejadas após feedback  
+   
 
 ---
 
