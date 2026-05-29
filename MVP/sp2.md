@@ -8,20 +8,20 @@
 ---
 
 ## 📝 Descrição da Solução
-> Nessa 2⁰sprint tivemos como objetivo calcular a taxa de mortalidade por 100 mil habitantes avaliando o impacto dos sinistros no trânsito, 
+> Nessa 2⁰sprint tivemos como objetivo calcular a taxa de mortalidade por 100 mil habitantes avaliando o impacto dos sinistros no trânsito, analisar a tendência de evolução na segurança viária entre 2020 e 2025, comparar indicadores de estados com a média nacional avaliando desempenho. 
 
 ---
 
 ## 👥 Personas / Usuários-Alvo
-- **Persona 1:** breve descrição, necessidades e dores atendidas  
-- **Persona 2:** breve descrição, necessidades e dores atendidas  
+- **Marcus Nascimento:** cliente, indicador da proposta e orientador da execução
+- **Observatório Nacional de Segurança Viária:** usuario utilizador futuro da ferramenta de análise e comparação, visando a melhoria geral nos índices de segurança brasileiro no transito.
 
 ---
 
 ## 🔑 User Stories (Backlog do MVP)
 | ID  | User Story                                                                 | Prioridade | Estimativa |
 |-----|-----------------------------------------------------------------------------|------------|------------|
-Como analista, quero calcular a taxa de mortalidade por 100 mil habitantes para avaliar o impacto dos sinistros no trânsito         | Alta       | 5 pontos   |
+|US1| Como analista, quero calcular a taxa de mortalidade por 100 mil habitantes para avaliar o impacto dos sinistros no trânsito         | Alta       | 5 pontos   |
 | US2 | Como usuário, quero visualizar gráficos de tendência por ano para analisar evolução da segurança viária entre 2020 e 2025         | Alta     | 5 pontos   |
 | US3 | Como usuário, quero interface intuitiva no Power BI com navegação simples para acessar informações rapidamente         | Média      | 3 pontos   |
 | US4 | Como usuário, quero comparar indicadores de um estado com a média nacional para avaliar desempenho relativo         | Média      | 3 pontos   |
