@@ -8,7 +8,8 @@
 ---
 
 ## 📝 Descrição da Solução
-> Nessa 2⁰sprint tivemos como objetivo calcular a taxa de mortalidade por 100 mil habitantes avaliando o impacto dos sinistros no trânsito, analisar a tendência de evolução na segurança viária entre 2020 e 2025, comparar indicadores de estados com a média nacional avaliando desempenho. 
+> Nessa 2⁰sprint tivemos como objetivo calcular a taxa de mortalidade por 100 mil habitantes avaliando o impacto dos sinistros no trânsito, analisar a tendência de evolução na segurança viária entre 2020 e 2025, comparar indicadores de estados com a média nacional avaliando desempenho. Otimizamos nosso dashboard com objetivo de facilitar as visualizações de dados, além de adicionar novas informações para análise.
+
 
 ---
 
@@ -34,15 +35,17 @@
 ## 📅 Sprint(s) Relacionadas
 | Sprint | Entregas Principais                          | Status   |
 |--------|----------------------------------------------|----------|
-| 01     | [Funcionalidade X, Y]                        | Concluído|
-| 02     | [Funcionalidade Z]                           | Em andamento |
-
+| 01     | Calculo de mortalidade por 100mil habitahtes | Concluído|
+| 02     | Tendência por ano para analise de evolução da segurança viária | Concluido |
+| 03     | Power BI mais intuitivo e visual | Concluído|
+| 04     | Mapa interativo por estados | Concluído|
+| 05     | Reduçãomdas categorias climáticas| Concluído|
 ---
 
 ## 📊 Critérios de Aceitação
-- O MVP deve permitir que o usuário [ação principal]  
-- O sistema deve registrar [evento importante]  
-- Métricas coletadas: [exemplo: tempo de resposta, taxa de uso]  
+- O MVP deve permitir que o usuário realize de forma prática, uma analise sobre as métricas de segurança viária brasileira, observado evoluções e declinios nos dados de 2020 a 2025
+- O sistema deve registrar melhora ou piora significativa após mudanças de penalidades, de rotas nos locais de maior incidência de acidentes,etc.  
+- Métricas coletadas:  
 
 ---
 
@@ -61,6 +64,4 @@
 ---
 
 ## 📂 Anexos / Evidências
-- Prints de tela  
-- Fluxos ou protótipos  
-- Vídeo (MVP)  
+- 
