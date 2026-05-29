@@ -8,10 +8,7 @@
 ---
 
 ## 📝 Descrição da Solução
-> Breve explicação do que será desenvolvido e entregue nesta etapa.  
-- Funcionalidades principais incluídas  
-- Limitações conhecidas  
-- Escopo reduzido (somente o essencial para validar a ideia)  
+> Nessa 2⁰sprint tivemos como objetivo calcular a taxa de mortalidade por 100 mil habitantes avaliando o impacto dos sinistros no trânsito, 
 
 ---
 
