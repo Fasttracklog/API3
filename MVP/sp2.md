@@ -1,4 +1,4 @@
-# 📌 MVP - [Fasttrack]
+# 📌 MVP - [Fasttrack Log]
 
 ## 🎯 Objetivo do MVP 
 - Evidenciar os problemas referentes a acidentes com veículos pesados, nos possibilitando uma analise com objetivo de melhorias nos processos logisticos relacionados a esses veículos.
