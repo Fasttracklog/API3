@@ -1,23 +1,22 @@
 # 📌 MVP - [Fasttrack Log]
 
 ## 🎯 Objetivo do MVP
-> Descrever de forma clara qual é o propósito do MVP:  
-- Qual problema resolve?  
-- Qual hipótese será validada?  
-- Qual valor será entregue ao usuário final?  
+> Dashboard interativo para analise de segurança viária:  
+- Ferramenta com diversidade de dados filtrados com objetivo de facilitar a visualição das problemáticas no transito de cada estado, afim de solucionar ou otimizar os metodos de segurança no trânsito.   
+- Dashboard com objetivo de indentificar os maiores gargalos da segurança viaria brasileira e tornar possivel novas propostas de solução.
 
 ---
 
 ## 📝 Descrição da Solução
-> Breve explicação do que será desenvolvido e entregue nesta etapa.  
-- Funcionalidades principais incluídas  
-- Limitações conhecidas  
-- Escopo reduzido (somente o essencial para validar a ideia)  
+> Dashboard de analise de segurança viaria pronto  
+- Filtros ajustados para melhor visualização  
+- (somente o essencial para validar a ideia)
+-   
 
 ---
 
 ## 👥 Personas / Usuários-Alvo
-- **Persona 1:** breve descrição, necessidades e dores atendidas  
+- **Persona 1:**   
 - **Persona 2:** breve descrição, necessidades e dores atendidas  
 
 ---
