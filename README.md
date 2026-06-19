@@ -88,7 +88,7 @@ Material que possa apoiar estudos acadêmicos e formulação de políticas públ
 |------|--------|------|--------|
 | 01 | 24/04/2026| concluido | [MVP](MVP/sp1.md)    | 
 | 02 | 15/05/2026| concluido | [MVP](MVP/sp2.md)| 
-| 03 | 05/06/2026 | em andamento |  | 
+| 03 | 05/06/2026 | em andamento | [MVP](MVP/sp3.md) | 
 | Feira de Soluções | 18/06/2026 | pendente |  | 
 
 
