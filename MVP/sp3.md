@@ -47,8 +47,14 @@
 ## 📅 Sprint(s) Relacionadas
 | Sprint | Entregas Principais                          | Status   |
 |--------|----------------------------------------------|----------|
-| 01     | [Funcionalidade X, Y]                        | Concluído|
-| 02     | [Funcionalidade Z]                           | Em andamento |
+| 01     | [Inicio do dashboar, primeiras modelagens]                        | Concluído|
+| 01     | [Limpeza de dados]                        | Concluído|
+| 01     | [Construção do backend]                        | Concluído|
+| 02     | [Dashboard construido (design final)]                     | Concluído |
+| 02     | [Dados limpos e adicionados ao frontend]                     | Concluído |
+| 02     | [Melhorias de fluídez entre os dados e paginas do frontend]        | Concluído |
+| 02     |[Inicio das analises com base nos dados limpos]                     | Concluído |
+| 03.    |[Finalização de toda ferramente de análise]                     |Concluído |
 
 ---
 
