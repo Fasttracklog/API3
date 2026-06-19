@@ -35,8 +35,11 @@
 ## 🔑 User Stories (Backlog do MVP)
 | ID  | User Story                                                                 | Prioridade | Estimativa |
 |-----|-----------------------------------------------------------------------------|------------|------------|
-| US1 | Como [tipo de usuário], quero [objetivo] para [benefício esperado].         | Alta       | 5 pontos   |
-| US2 | Como [tipo de usuário], quero [objetivo] para [benefício esperado].         | Média      | 3 pontos   |
+|US5| Como analista, quero calcular a taxa de mortalidade por 100 mil habitantes para avaliar o impacto dos sinistros no trânsito         | Alta       | 5 pontos   |
+| US7 | Como usuário, quero visualizar gráficos de tendência por ano para analisar evolução da segurança viária entre 2020 e 2025         | Alta     | 5 pontos   |
+| US19 | Como usuário, quero interface intuitiva no Power BI com navegação simples para acessar informações rapidamente         | Média      | 3 pontos   |
+| US12 | Como usuário, quero comparar indicadores de um estado com a média nacional para avaliar desempenho relativo         | Média      | 3 pontos   |
+| US14 | Como usuário, quero visualizar mapas interativos por estado para facilitar análise geográfica dos dados         | Média      | 3 pontos  |
 
 ---
 
