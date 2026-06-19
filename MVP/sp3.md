@@ -16,8 +16,8 @@
 ---
 
 ## 👥 Personas / Usuários-Alvo
-- **Persona 1:**   
-- **Persona 2:** breve descrição, necessidades e dores atendidas  
+- **Marcus Nascimento:** cliente, indicador da proposta e orientador da execução
+- **Observatório Nacional de Segurança Viária:** usuario utilizador futuro da ferramenta de análise e comparação, visando a melhoria geral nos índices de segurança brasileiro no transito.
 
 ---
 
