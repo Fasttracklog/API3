@@ -17,11 +17,11 @@
 - Ranking de eficiência viária
 - Tendências ao longo do ano
  # Limitações
-- Dependência da qualidade dos dados da PRF
-- Não identifica detalhes dos acidentes de trânsito
-  # Escopo
-  - Foco em veículos pesados
-  - Dashboard com indicadores importantes para validação de ideia
+ - Dependência da qualidade dos dados da PRF
+ - Não identifica detalhes dos acidentes de trânsito
+ # Escopo
+ - Foco em veículos pesados
+ - Dashboard com indicadores importantes para validação de ideia
    
 
 ---
