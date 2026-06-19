@@ -59,27 +59,28 @@
 ---
 
 ## 📊 Critérios de Aceitação
-- O MVP deve permitir que o usuário [ação principal]  
-- O sistema deve registrar [evento importante]  
-- Métricas coletadas: [exemplo: tempo de resposta, taxa de uso]  
+- O MVP deve permitir que o usuário visualize e analise os acidentes em rodovias federais, com foco em veículos pesados.  
+- O sistema deve registrar dados relevantes como número de acidentes, óbitos, taxas de mortalidade/letalidade e distribuição temporal e geográfica  
+- Métricas coletadas:
+- tempo de interação com o dashboard
+- páginas mais acessadas
+- taxa de utilização  
 
 ---
 
 ## 📈 Métricas de Validação
-- Número de usuários que testaram o MVP  
-- Feedback qualitativo (positivo/negativo)  
-- Indicadores de negócio (exemplo: % de adesão, redução de custo, etc.)  
+- Testado pelos 8 integrantes do grupo  
+- Feedback qualitativo: facilidade de uso, clareza das informações, boa utilidade nas análises.  
+    
 
 ---
 
 ## 🚀 Próximos Passos
-- Melhorias planejadas após feedback  
+- Melhorias futuras para tornar uma ferramenta oficial  
 - Ajustes de usabilidade  
-- Expansão de funcionalidades para próximo incremento  
+- Expansão de funcionalidades com novos dados, futuramente  
 
 ---
 
 ## 📂 Anexos / Evidências
-- Prints de tela  
-- Fluxos ou protótipos  
 - Vídeo (MVP)  
