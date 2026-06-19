@@ -35,7 +35,7 @@
 ## 📅 Sprint(s) Relacionadas
 | Sprint | Entregas Principais                          | Status   |
 |--------|----------------------------------------------|----------|
-| 02     | Calculo de mortalidade por 100mil habitahtes | Concluído|
+| 02     | Calculo de mortalidade por 100mil habitantes | Concluído|
 | 02     | Tendência por ano para analise de evolução da segurança viária | Concluido |
 | 02     | Power BI mais intuitivo e visual | Concluído|
 | 02     | Mapa interativo por estados | Concluído|
