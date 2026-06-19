@@ -35,12 +35,13 @@
 ## 🔑 User Stories (Backlog do MVP)
 | ID  | User Story                                                                 | Prioridade | Estimativa |
 |-----|-----------------------------------------------------------------------------|------------|------------|
-|US5| Como analista, quero calcular a taxa de mortalidade por 100 mil habitantes para avaliar o impacto dos sinistros no trânsito         | Alta       | 5 pontos   |
-| US7 | Como usuário, quero visualizar gráficos de tendência por ano para analisar evolução da segurança viária entre 2020 e 2025         | Alta     | 5 pontos   |
-| US19 | Como usuário, quero interface intuitiva no Power BI com navegação simples para acessar informações rapidamente         | Média      | 3 pontos   |
-| US12 | Como usuário, quero comparar indicadores de um estado com a média nacional para avaliar desempenho relativo         | Média      | 3 pontos   |
-| US14 | Como usuário, quero visualizar mapas interativos por estado para facilitar análise geográfica dos dados         | Média      | 3 pontos  |
-
+|US9| Como usuário, quero filtrar dados por região do Brasil para comparar padrões regionais de sinistros         | Alta       | 5 pontos   |
+| US10 | Como usuário, quero filtrar dados por ano para analisar mudanças ao longo do tempo         | Alta     | 5 pontos   |
+| US11 | Como usuário, quero filtrar dados por gravidade do sinistro para avaliar severidade dos acidentes     | Média      | 3 pontos   |
+| US20 | Como usuário, quero acessar o dashboard em diferentes dispositivos para ter experiência responsiva    | Média      | 3 pontos   |
+| US15 | Como usuário, quero visualizar ranking de eficiência em segurança viária dos municípios com mais de 250 mil habitantes para identificar melhores práticas| Média      | 3 pontos  |
+|US16| Como gestor público, quero identificar estados com maior taxa de letalidade envolvendo veículos pesados para priorizar políticas públicas|Media| 3 pontos|
+|US17| Como pesquisador, quero exportar dados e gráficos do dashboard para usar em estudos acadêmicos| Média| 3 pontos
 ---
 
 ## 📅 Sprint(s) Relacionadas
