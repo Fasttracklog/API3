@@ -2,16 +2,27 @@
 
 ## 🎯 Objetivo do MVP
 > Dashboard interativo para analise de segurança viária:  
-- Ferramenta com diversidade de dados filtrados com objetivo de facilitar a visualição das problemáticas no transito de cada estado, afim de solucionar ou otimizar os metodos de segurança no trânsito.   
-- Dashboard com objetivo de indentificar os maiores gargalos da segurança viaria brasileira e tornar possivel novas propostas de solução.
+- Ferramenta para análise clara sobre os acidentes envolvendo veículos pesados que impactam a segurança viária e logística do Brasil.
+- Valida a hipótese de que mesmo representando a minoria dos acidentes, os veiculos pesados estão diretamente associados a maior gravidade dos acidentes e mortalidade,além de representarem padrões específicos por região, tempo e perfil de condutores.     
+- Dashboard interativo e visual que permita encontrar padrões, regiões críticas e tendências, auxiliando na tomada de decisão de profissionais das áreas abrangente.
 
 ---
 
 ## 📝 Descrição da Solução
-> Dashboard de analise de segurança viaria pronto  
-- Filtros ajustados para melhor visualização  
-- (somente o essencial para validar a ideia)
--   
+> Dashboard de análise de segurança viária em Power BI que permite analisaros acidentes em diferentes níveis.    
+- Filtros por região ajustados para melhor visualização
+- Total de acidentes, óbitos e taxas (mortalidade e letalidade)
+- Análise específica de veiculos pesados
+- Análise temporal
+- Ranking de eficiência viária
+- Tendências ao longo do ano
+- ## Limitações
+- Dependência da qualidade dos dados da PRF
+- Não identifica detalhes dos acidentes de trânsito
+  ## Escopo
+  - Foco em veículos pesados
+  - Dashboard com indicadores importantes para validação de ideia
+   
 
 ---
 
