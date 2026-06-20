@@ -83,4 +83,13 @@
 ---
 
 ## 📂 Anexos / Evidências
-- Vídeo (MVP)  
+- Vídeo (MVP)
+- <img width="892" height="509" alt="IMG_5408" src="https://github.com/user-attachments/assets/0179867d-d03d-475b-90ce-91489f69ccd5" />
+-<img width="901" height="497" alt="IMG_5410" src="https://github.com/user-attachments/assets/e7a7ec4c-3bd6-41a0-b249-ece5c04393cc" />
+-<img width="891" height="486" alt="IMG_5407" src="https://github.com/user-attachments/assets/ac2c160b-8af0-4f5c-8256-73249b036f26" />
+-<img width="895" height="509" alt="IMG_5409" src="https://github.com/user-attachments/assets/7ea473fd-1010-4039-a6d0-20bb5ec8c8fe" />
+-<img width="899" height="504" alt="IMG_5411" src="https://github.com/user-attachments/assets/4f951198-ae41-4306-aed6-f5036a5baabc" />
+
+
+
+
