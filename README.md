@@ -89,11 +89,11 @@ Material que possa apoiar estudos acadêmicos e formulação de políticas públ
 | 01 | 24/04/2026| concluido | [MVP](MVP/sp1.md)    | 
 | 02 | 15/05/2026| concluido | [MVP](MVP/sp2.md)| 
 | 03 | 05/06/2026 | em andamento | [MVP](MVP/sp3.md) | 
-| Feira de Soluções | 18/06/2026 | pendente |  | 
+| Feira de Soluções | 25/06/2026 | Em andamento |  | 
 
 
 
 <p align="center">
- <img src="https://img.shields.io/badge/STATUS-EM ANDAMENTO-orange"/>
+ <img src="https://img.shields.io/badge/STATUS-CONCLUIDO-green"/>
 </p>
   
